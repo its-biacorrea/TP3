@@ -1,0 +1,21 @@
+id_funcionario,nome_funcionario,id_cargo,id_departamento,salario_funcionario,ctps_funcionario
+1,Carlos Silva,1.0,1,1500.0,CTPS123456
+2,Maria Souza,2.0,1,3500.0,CTPS654321
+3,João Oliveira,3.0,1,5010.0,CTPS987654
+4,Ana Costa,4.0,1,10000.0,CTPS123789
+5,Paula Lima,3.0,2,5500.0,CTPS852369
+6,Pedro Martins,4.0,2,10000.0,CTPS741258
+7,Lucas Fernandes,2.0,3,4500.0,CTPS963258
+8,Júlia Alves,3.0,3,4030.0,CTPS159753
+9,Beatriz Pereira,4.0,4,10000.0,CTPS258147
+10,Roberto Nunes,5.0,5,20000.0,CTPS369258
+11,Fernando Gomes,1.0,1,1500.0,CTPS111111
+12,Tatiane Rocha,1.0,1,1500.0,CTPS222222
+13,Renato Silva,1.0,2,1500.0,CTPS333333
+14,Sofia Lima,1.0,2,1500.0,CTPS444444
+15,Clara Almeida,1.0,3,1500.0,CTPS555555
+16,Gustavo Ferreira,,1,4000.0,CTPS666666
+17,Mariana Lima,,2,1800.0,CTPS777777
+18,Eduardo Silva,,3,1900.0,CTPS888888
+19,Fernando Almeida,3,4,3700.0,CTPS999999
+20,Ricardo Mendes,,5,1600.0,CTPS101010

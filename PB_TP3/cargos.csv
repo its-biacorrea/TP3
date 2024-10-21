@@ -1,0 +1,6 @@
+id_cargo,descricao_cargo,salario_base,nivel_cargo,escolaridade
+1,Estagiário de TI,1500.0,estagiário,Cursando graduação
+2,Técnico de Suporte,2500.0,técnico,Técnico em Informática
+3,Analista de Sistemas,5000.0,analista,Graduação em TI
+4,Gerente de Projetos,10000.0,gerente,Pós-graduação em Gestão
+5,Diretor de Tecnologia,20000.0,diretor,Mestrado em TI

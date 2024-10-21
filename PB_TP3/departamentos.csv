@@ -1,0 +1,6 @@
+id_departamento,nome_departamento,id_gerente,andar_departamento,qtd_funcionarios
+1,Tecnologia da Informação,4,2,20
+2,Recursos Humanos,4,5,10
+3,Marketing,5,6,15
+4,Vendas,6,5,12
+5,Financeiro,7,3,8
